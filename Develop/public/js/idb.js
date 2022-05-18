@@ -11,6 +11,7 @@ request.onupgradeneeded = function(event) {
 // on success
 request.onsuccess = function (event) {
     // when db is successfully created with its object store, save reference to db in global variant
+    db = event.target.result;
     if (navigator.onLine) {
         uploadBudget();
     }
