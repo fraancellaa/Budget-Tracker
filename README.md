@@ -20,5 +20,4 @@ Budget tracker is an application for giving users a fast and easy way to track t
 5. IndexedDB
 
 # Link to Application
-
-# Resources
+Deployment to HEROKU:
