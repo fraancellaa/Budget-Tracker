@@ -59,4 +59,4 @@ self.addEventListener('fetch', function (e) {
             // you can omit if/else for console.log
         })
     )
-})
+});
