@@ -5,6 +5,7 @@ Budget tracker is an application for giving users a fast and easy way to track t
 
 # Installation
 1. Git clone
+2. "CD" to Develop branch
 2. Run `npm install` on terminal, then
 3. Run `npm start` and app is open on localhost:3001
 
