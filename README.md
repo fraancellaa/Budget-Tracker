@@ -5,12 +5,19 @@ Budget tracker is an application for giving users a fast and easy way to track t
 
 # Installation
 1. Git clone
-2. "CD" to Develop branch
+2. Start at the root of the Develop branch
 2. Run `npm install` on terminal, then
 3. Run `npm start` and app is open on localhost:3001
 
 # Usage
 <img width="1265" alt="Screenshot 2022-05-23 at 9 53 03 AM" src="https://user-images.githubusercontent.com/95050386/169835005-a4bf9f41-028b-4bc3-9544-515e197ee699.png">
+
+# Technologies Used
+1. NoSQL
+2. MongoDB
+3. Express.js
+4. Mongoose
+5. IndexedDB
 
 # Link to Application
 
