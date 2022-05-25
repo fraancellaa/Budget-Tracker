@@ -18,6 +18,7 @@ Budget tracker is an application for giving users a fast and easy way to track t
 3. Express.js
 4. Mongoose
 5. IndexedDB
+5. Heroku Deployment
 
 # Link to Application
 Deployment to HEROKU:
